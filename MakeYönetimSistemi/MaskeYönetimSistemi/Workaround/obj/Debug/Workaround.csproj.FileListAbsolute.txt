@@ -1,0 +1,7 @@
+C:\Users\Enes\Desktop\2024 yazılımcı yetiştirme kampı ödevler\Ders1Git için c#\MaskeYönetimSistemi\Workaround\bin\Debug\Workaround.exe.config
+C:\Users\Enes\Desktop\2024 yazılımcı yetiştirme kampı ödevler\Ders1Git için c#\MaskeYönetimSistemi\Workaround\bin\Debug\Workaround.exe
+C:\Users\Enes\Desktop\2024 yazılımcı yetiştirme kampı ödevler\Ders1Git için c#\MaskeYönetimSistemi\Workaround\bin\Debug\Workaround.pdb
+C:\Users\Enes\Desktop\2024 yazılımcı yetiştirme kampı ödevler\Ders1Git için c#\MaskeYönetimSistemi\Workaround\obj\Debug\Workaround.csproj.AssemblyReference.cache
+C:\Users\Enes\Desktop\2024 yazılımcı yetiştirme kampı ödevler\Ders1Git için c#\MaskeYönetimSistemi\Workaround\obj\Debug\Workaround.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\2024 yazılımcı yetiştirme kampı ödevler\Ders1Git için c#\MaskeYönetimSistemi\Workaround\obj\Debug\Workaround.exe
+C:\Users\Enes\Desktop\2024 yazılımcı yetiştirme kampı ödevler\Ders1Git için c#\MaskeYönetimSistemi\Workaround\obj\Debug\Workaround.pdb
